@@ -168,7 +168,7 @@ app_script_email_automation/
 ## Project Setup
 1. **Clone the Repository**  
 ``` bash
-      git clone https://github.com/danieladdisonorg/email-marketing-ai-agent.git
+      git clone https://github.com/hideo0106/email-marketing-ai-agent.git
 ```
 ``` bash
       cd email-marketing-ai-agent
@@ -250,3 +250,4 @@ app_script_email_automation/
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
